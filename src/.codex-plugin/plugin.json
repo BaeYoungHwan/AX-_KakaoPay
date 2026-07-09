@@ -1,0 +1,12 @@
+{
+  "name": "kakaopay-securities-compliance-review",
+  "version": "0.1.0",
+  "description": "카카오페이증권 투자권유·광고 콘텐츠(투자권유문자/상품소개서/SNS광고/리서치·투자자문 코멘트/신규상품 안내 이메일)를 배포 전 자본시장법·금융소비자보호법 위반 가능성으로 사전 심의하는 플러그인",
+  "skills": "./skills/",
+  "keywords": ["compliance", "securities", "kakaopay", "finance"],
+  "interface": {
+    "displayName": "증권 투자권유·광고 준법 심의",
+    "shortDescription": "투자권유 콘텐츠를 배포 전에 자본시장법 기준으로 사전 심의합니다.",
+    "category": "Compliance"
+  }
+}
